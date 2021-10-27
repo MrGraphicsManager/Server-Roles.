@@ -25,7 +25,7 @@
 | YouTube Sponsor   | Channel member of live channel i.e. [Mr.Graphics](https://youtube.com/channel/UCx2en8Jpyxh1OgnO7JIsovg).  |
 | Contributor       | Ones who sponsor the server financially under certain circumstances(terms & conditions applied).                                                                                                                |
 | Developer         | Creator of bots that are being used in this server.                                                                                                                                                            |
-| Designer          | Ones who regularly do gfx or VFX work for Team Ujjwal.                                                                                                                                                        |
+| Designer          | Ones who regularly do gfx or VFX work for Team Mr.Graphics.                                                                                                                                                         |
 | Artist            | Talented musicians present in the [server](https://discord.gg/TKrHh8QTxm).                                                                                                                                     |
 | PTT Bypass            | Given based on activity and assigned/removed automatically via automation.                                                                                                                                     |
 | Verified Girl            | Given only to girls after voice verification.                                                                                                                                     |
